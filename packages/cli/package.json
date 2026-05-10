@@ -32,11 +32,11 @@
         "watch": "tsc --watch --preserveWatchOutput"
     },
     "dependencies": {
+        "@inquirer/prompts": "^7.0.0",
         "@rnv/engine-core": "1.10.0-feat-legacy-overrides.2",
         "@rnv/sdk-telemetry": "1.10.0-feat-legacy-overrides.2",
         "chalk": "4.1.0",
-        "commander": "12.1.0",
-        "@inquirer/prompts": "^7.0.0"
+        "commander": "12.1.0"
     },
     "devDependencies": {},
     "peerDependencies": {
