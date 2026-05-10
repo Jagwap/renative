@@ -59,5 +59,6 @@
     "publishConfig": {
         "access": "public"
     },
-    "title": "ReNative Core SDK"
+    "title": "ReNative Core SDK",
+    "gitHead": "5b9f9f599e377164a66f3eab04831163f043ecc4"
 }

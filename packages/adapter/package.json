@@ -31,9 +31,9 @@
     "dependencies": {
         "babel-plugin-module-resolver": "^5.0.0"
     },
-    "peerDependencies": {},
     "private": false,
     "publishConfig": {
         "access": "public"
-    }
+    },
+    "gitHead": "5b9f9f599e377164a66f3eab04831163f043ecc4"
 }
